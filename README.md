@@ -66,5 +66,5 @@ Currently building my foundation in programming, computer science, software deve
 
 Connect With Me
 
-LinkedIn: Your LinkedIn URL
-Email: Your Email
+LinkedIn: https://www.linkedin.com/in/venkat-karthikeya-s-651a80436/
+Email: venkatkarthikeya43@gmail.com
